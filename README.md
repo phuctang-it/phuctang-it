@@ -3,7 +3,7 @@
 <h4 align="center">😄 Pronouns: you can call me 'Ken'</h4>
 
 
-<img src="https://raw.githubusercontent.com/phuctang-it/phuctang-it/main/banner.png" alt="Phuc Tang Banner" />
+<img src="https://raw.githubusercontent.com/phuctang-it/phuctang-it/main/banner.jpg" alt="Phuc Tang Banner" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phuctang-it&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
