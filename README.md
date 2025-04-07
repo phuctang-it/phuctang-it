@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phuc Tang</h1>
-<h3 align="center">A Sofeware Developer & IT</h3>
+<h3 align="center">A Software Developer & IT</h3>
 <h4 align="center">😄 Pronouns: you can call me 'Ken'</h4>
 
 
