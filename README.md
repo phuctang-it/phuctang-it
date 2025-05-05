@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Phuc Tang</h1>
-<h3 align="center">A Software Developer & IT</h3>
-<h4 align="center">😄 Pronouns: you can call me 'Ken'</h4>
+<h1 align="center">Hi 👋, I'm Phuc</h1>
+<h3 align="center">A Software Developer</h3>
+<h4 align="center">😄 Pronouns: You can call me 'Ken'</h4>
 
 
 <img src="https://raw.githubusercontent.com/phuctang-it/phuctang-it/main/banner.jpg" alt="Phuc Tang Banner" />
