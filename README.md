@@ -55,9 +55,9 @@
 ---
 
 ## 🔥 Latest Projects  
-- 🚀 **[Project 1](https://github.com/phuctang-it/project1)** – Description  
-- 🔥 **[Project 2](https://github.com/phuctang-it/project2)** – Description  
-- 🌟 **[Project 3](https://github.com/phuctang-it/project3)** – Description  
+- 🚀 **[Project 1](https://github.com/phuctang-it/project1)** – Leetcode   
+- 🔥 **[Project 2](https://github.com/phuctang-it/project2)** – Download tools   
+- 🌟 **[Project 3](https://github.com/phuctang-it/project3)** – Product Maker  
 
 ---
 
