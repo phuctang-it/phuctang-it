@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/phuctang-it/phuctang-it/main/banner.jpg" alt="Phuc Tang Banner" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phuctang-it&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<!--   <img src="https://komarev.com/ghpvc/?username=phuctang-it&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> -->
   <img src="https://img.shields.io/github/followers/phuctang-it?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
