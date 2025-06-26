@@ -3,8 +3,6 @@
 <h4 align="center">😄 Pronouns: You can call me 'Ken'</h4>
 
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phuctang-it&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/phuctang-it?label=Followers&style=social" alt="GitHub Followers" />
