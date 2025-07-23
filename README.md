@@ -13,7 +13,7 @@
 ## 💡 About Me
 - 🎯 **Expertise:** Full-Stack Development, Data Engineer, DevOps.
 - 🚀 **Currently Working On:** Next.js, Nuxt.js, Django, Docker, AWS, and AI Integration
-- 🌱 **Learning:** Advanced Kubernetes & AI-Powered Development
+- 🌱 **Learning:** Advanced Kubernetes & AI-Powered Development & Data Analytics
 - 🎯 **Open to:** Collaborations, Freelance Projects, and Job Opportunities
 - 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/phuc-tang) | [Twitter](https://twitter.com/yourhandle) | [Email](mailto:phuc.tangbahong@gmail.com)
 
