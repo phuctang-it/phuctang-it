@@ -58,7 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuctang-it&theme=tokyonight" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuctang-it&layout=compact&theme=tokyonight" alt="Top Languages" />
-  ![Stats](https://github-readme-stats.vercel.app/api?username=phuctang-it&show_icons=true&theme=tokyonight)
 </p>
 
 ---
