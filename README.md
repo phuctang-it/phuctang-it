@@ -48,7 +48,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)  
-
+![dbt](https://skillicons.dev/icons?i=dbt)
 ---
 
 ## 📊 GitHub Stats  
